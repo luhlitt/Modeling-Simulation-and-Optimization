@@ -1,2 +1,2 @@
-# Simulation and Optimization for London to Birmingham station
-A simulation of train network for London to Birmingham station to give a train schedule, signalling block breakdown and throughput of passengers.
+# A modeling, simulation and optimization project
+A simulation of a train network for London to Birmingham station to give a train schedule, signalling block breakdown and maximum of passengers using Simpy and Monte-Carlo optimisation in python.
